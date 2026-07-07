@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cristianporco.it/app/convertitore-di-file-pdf-in-csv-con-estrazione-tabella-server-side/sitemap.xml
